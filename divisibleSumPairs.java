@@ -22,6 +22,7 @@ class Result {
      *  3. INTEGER_ARRAY ar
      */
 
+    
     public static int divisibleSumPairs(int n, int k, List<Integer> ar) {
     // Write your code here
     

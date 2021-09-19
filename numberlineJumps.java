@@ -12,6 +12,7 @@ import static java.util.stream.Collectors.toList;
 
 class Result {
 
+    
     /*
      * Complete the 'kangaroo' function below.
      *
@@ -23,6 +24,7 @@ class Result {
      *  4. INTEGER v2
      */
 
+    
     public static String kangaroo(int x1, int v1, int x2, int v2) {
     // Write your code here
     
